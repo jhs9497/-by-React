@@ -1,0 +1,15 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form label {
+  font-size: .5rem;
+  margin-top: 10px;
+}
+
+.login-form a {
+  font-size: .5rem;
+  margin-top: 5px;
+  color: rgb(85, 85, 197);
+}

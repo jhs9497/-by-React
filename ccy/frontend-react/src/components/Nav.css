@@ -1,0 +1,17 @@
+.nav {
+  min-height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 0 5px rgb(168, 167, 167);
+}
+
+.nav li {
+  margin: 0 10px;
+}
+
+.nav button {
+  border: none;
+  background-color: white;
+  font-size: 15px;
+}
