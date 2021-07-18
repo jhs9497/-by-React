@@ -1,0 +1,9 @@
+.signup-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup-form label {
+  font-size: .5rem;
+  margin-top: 10px;
+}
